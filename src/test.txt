@@ -1,0 +1,15 @@
+Popescu Andra, Georgescu Marinela, Iacob Adina, Ioan Marius, Voina Robert 
+G1(11), P2, G2(12)
+Popescu Andra, G1, 8.5
+Georgescu Marinela, G1, 6
+Iacob Adina, G1, 6
+Ioan Marius, G1, 7
+Voina Robert, G1, 6
+Popescu Andra, P2, 10, 7
+Ioan Marius, P2, 9, 8
+Voina Robert, P2, 10, 7
+Popescu Andra, G2, 9.25
+Georgescu Marinela, G2, 5.5 
+Iacob Adina, G2, 6.5
+Ioan Marius, G2, 6.5
+Voina Robert, G2, 5
