@@ -1,8 +1,4 @@
-/*
- * Copyright (c) 2019 SSI Schaefer Noell GmbH
- *
- * $Header: $
- */
+ 
 
 package Catalog;
 
