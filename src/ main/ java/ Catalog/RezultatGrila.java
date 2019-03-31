@@ -1,8 +1,3 @@
-/*
- * Copyright (c) 2019 SSI Schaefer Noell GmbH
- *
- * $Header: /data/cvs/Scolarizare/csilistru/isi_test9/src/com/ssn/ssijs/isi/Catalog/RezultatGrila.java,v 1.1 2019/02/28 08:56:43 csilistru Exp $
- */
 
 package Catalog;
 
